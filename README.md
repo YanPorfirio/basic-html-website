@@ -17,4 +17,4 @@ https://roadmap.sh/projects/basic-html-website
 
 ## Run locally
 
-Open `basic-website.html` in a web browser.
+Open `index.html` in a web browser.
